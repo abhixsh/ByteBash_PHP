@@ -8,8 +8,6 @@ description: "This sample demonstrates a tiny Hello World PHP app for App Servic
 urlFragment: php-docs-hello-world
 ---
 
-Sure, let's break down each step of creating a PHP web app in Azure App Service:
-
 1. **Get the sample repository**:
    - First, you need to clone a sample PHP application repository from GitHub to your local machine.
    - Open your terminal or command prompt and run the following commands:
